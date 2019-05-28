@@ -1,2 +1,2 @@
 # runge-kutta-vlg
-Very simple 4th order Runge-Kutta based RLC circuit simulator
+Very simple real-time RLC circuit simulator in verilog. Based on 4th order Runge-Kutta method.
